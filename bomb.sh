@@ -12,7 +12,7 @@ ${W}  ▄     ▄
 ${W} █████████
 ${W} █▄█████▄█
  █${R}▼▼▼▼▼▼
-${W} █${Z} Destroyer       ${W}by SolitarioH4ck23
+${W} █${Z} Bomb infect       ${W}by SolitarioH4ck23
 ${W} █${R}▲▲▲▲▲▲
 ${W} █████████
 
