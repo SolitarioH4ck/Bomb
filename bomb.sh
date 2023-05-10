@@ -50,7 +50,7 @@ if [ $wu == '1' ];then
 
 elif [ $wu == '2' ];then
 
-        echo 'Preparando binario LeGioN...'
+        echo 'Preparando binario BooM..'
 
 else
 
