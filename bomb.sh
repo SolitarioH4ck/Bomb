@@ -44,11 +44,11 @@ echo -ne ">> " ${R}
 read -r wu
 echo -e ${Z}
 
-if [ $wu == '1' ];then
+if [[ $wu == '1' ]];then
 
         echo 'Preparando binario LeGioN...'
 
-elif [ $wu == '2' ];then
+elif [[ $wu == '2' ]];then
 
         echo 'Preparando binario BooM..'
 
