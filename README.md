@@ -1,4 +1,4 @@
-#Bomb Es un Script que envia binarios trabas a cualquiera por medio del numero telefonico.
+#Bomb Es un Script que envia binarios (para infectar el sistema) a cualquiera por medio del numero telefonico.
 
 #Intalación
 
