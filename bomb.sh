@@ -1,5 +1,7 @@
 
 #!/bin/bash
+#code by SolitarioH4ck23
+
 W='\033[1;39m'
 R='\033[1;31m'
 Z='\033[1;34m'
