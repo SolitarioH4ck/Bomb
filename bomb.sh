@@ -32,7 +32,7 @@ echo 'Analizando...'
 sleep 2
 echo 'Número Existente!'
 sleep 1
-#Fuctions
+#Functions
 wun()
 clear
 echo -e ${Z}'
@@ -63,7 +63,7 @@ else
         exit
 
 fi
-
+#Functions
 eo(){
 sleep 5
 echo ' '
