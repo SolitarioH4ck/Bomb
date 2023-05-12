@@ -40,7 +40,7 @@ sleep 0.1
 echo -e "${Z}[${R} 2 ${Z}]${R}〖乃ѺѺᎷ💣${Z} "
 sleep 1
 echo ' '
-echo -ne ">> " ${R}
+echo -e -n ">> " ${R}
 read -r wu
 echo -e ${Z}
 
