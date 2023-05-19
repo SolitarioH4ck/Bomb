@@ -33,7 +33,6 @@ sleep 2
 echo 'Número Existente!'
 sleep 1
 #Functions
-wun()
 clear
 echo -e ${Z}'
 [ + ] Elige el binario a enviarle! [ + ]
