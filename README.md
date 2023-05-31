@@ -1,4 +1,4 @@
-Bomb Es un Script que envia binarios muy potentes a cualquiera por medio del numero telefonico.
+Bomb Es un Script que envia binarios muy potentes desde la terminal de termux por medio del numero telefonico.
 
 #Intalación
 
