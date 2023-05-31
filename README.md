@@ -6,7 +6,7 @@ apt update && apt upgrade
 
 pkg install git
 
-git clone https://github/SolitarioH4ck/Bomb
+git clone https://github.com/SolitarioH4ck/Bomb
 
 cd Bomb
 
