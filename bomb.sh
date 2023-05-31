@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #code by SolitarioH4ck23
 
@@ -62,7 +61,7 @@ echo -e ${Z}
 if [[ $wu == '1' ]];then
 
         echo 'Preparando binario LeGioN...'
-
+        eo
 elif [[ $wu == '2' ]];then
 
         echo 'Preparando binario BooM..'
