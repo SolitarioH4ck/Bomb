@@ -11,7 +11,7 @@ eo(){
 sleep 5
 echo ''
 echo -e "Atacando...😈\n"
-slee 1
+sleep 1
 echo "infectando a $nm"
 sleep 2
 echo "¡En Ejecución!"
