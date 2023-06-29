@@ -9,7 +9,7 @@ M='\033[1;35m'
 #Functions
 eo(){
 sleep 5
-echo ''
+echo ""
 echo -e "Atacando...😈\n"
 sleep 1
 echo "infectando a $nm"
@@ -60,11 +60,11 @@ echo -e ${Z}
 
 if [[ $wu == 1 ]];then
 
-        echo 'Preparando binario LeGioN...'
+        echo "Preparando binario LeGioN..."
         eo
 elif [[ $wu == 2 ]];then
 
-        echo 'Preparando binario BooM..'
+        echo "Preparando binario BooM.."
         eo
 else
 
