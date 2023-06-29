@@ -44,6 +44,7 @@ sleep 2
 echo "Número Existente!"
 sleep 1
 #Functions
+zx(){
 clear
 echo -e ${Z}"
 [ + ] Elige el binario a enviarle! [ + ]
@@ -69,7 +70,9 @@ elif [[ $wu == 2 ]];then
 else
 
         echo "Elige bien la obcion..."
-        eo
-        exit
+        sleep 1
+        zx
 
 fi
+}
+zx
